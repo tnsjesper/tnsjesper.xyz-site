@@ -1,16 +1,21 @@
 ---
-name: Tails Azimuth
+name: Jesper
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Code and Creator for Web and Dev
+company: Germany
+email: https://twitter.com/tnsjesper
+twitter: https://twitter.com/tnsjesper
+github: https://github.com/tnsjesper
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+HI ich bin Jesper aka tnsjesper hier werde ich von meinem Leben, Ideen, Projecten, Updates und anderen dingen reden.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Ich bin 16. Code und Dev für Java, PHP, JS, HTML, CSS und anderen in der zukunft will ich auch mal C# lernen wie auch Kotlin.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ich bin Gründer von tnsstudio.net einer Community Orga! Die 2025 richtig Startet. Auch betätige ich mich an der landwirdschaft und Streame bzw. mache Youtube!
+
+Auch habe ich ein Minecraft Netzwerk das Crystopia.net heist! Dem Discord kann man unter dc.crystopia.net betreten.
+
+Nur noch ein wenn du mehr Post willst dann sehe dir mal blog.tnsstudio.net an hier gibt es nur von mit meist in deutsch auch auch in Englisch Posts.
+
+Euer Jesper.
