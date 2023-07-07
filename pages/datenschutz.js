@@ -566,8 +566,10 @@ export default function Home() {
           <Link href="https://www.hcaptcha.com/privacy">https://www.hcaptcha.com/privacy</Link>
           und <Link href="https://hcaptcha.com/terms"> https://hcaptcha.com/terms</Link>.
         </p>
+        <br></br>
         <p>
           Bitte Beachte das die Seite auf Vercel ist und deswegen auch das hier GILT!
+          <br></br>
           <Link href={'https://vercel.com/legal/privacy-policy'}>
             https://vercel.com/legal/privacy-policy
           </Link>
