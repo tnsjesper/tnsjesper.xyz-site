@@ -1,7 +1,7 @@
 ---
 name: Jesper
 avatar: /static/images/avatar.png
-occupation: Code and Creator for Web and Dev
+occupation: Programmier and Creator 
 company: Germany
 email: https://twitter.com/tnsjesper
 twitter: https://twitter.com/tnsjesper
